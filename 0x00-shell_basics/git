@@ -1,0 +1,6 @@
+t commit -m 'My first commit'
+
+git push
+
+#!/bin/bash
+cp -rua *.html ../
