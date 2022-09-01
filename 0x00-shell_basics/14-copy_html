@@ -1,2 +1,1 @@
-#!/bib/bash
-cp -rua *.html ../
+#!/bin/bash cp -n -u *.html ../ 
